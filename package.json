@@ -8,5 +8,7 @@
     "ejs": ">=1.0.0",
     "wechat-crypto": "0.0.2",
     "wechat-enterprise-api": "0.0.2"
-  }
+  },
+  "author": "Jackson Tian",
+  "license": "MIT"
 }
